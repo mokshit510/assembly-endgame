@@ -1,0 +1,21 @@
+{
+  "name": "Assembly: Endgame",
+  "description": "it is a guess a word game",
+  "type": "module",
+  "scripts": {
+    "start": "./node_modules/.bin/vite",
+    "dev": "./node_modules/.bin/vite",
+    "build": "./node_modules/.bin/vite build",
+    "preview": "./node_modules/.bin/vite preview"
+  },
+  "dependencies": {
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "clsx": "2.1.1",
+    "react-confetti": "6.1.0",
+    "vite": "latest"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "*"
+  }
+}
